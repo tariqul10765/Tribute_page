@@ -50,6 +50,10 @@ footer ul{
 footer ul li{
     margin-bottom: 20px;
 }
+footer .container h2{
+    font-size: 20px;
+    padding: 0px;
+}
 footer .container p{
     text-align: left;
     
@@ -87,11 +91,19 @@ footer h2{
     footer .container{
         padding: 0% 10%;
         margin: auto;
-        margin-bottom: 30px;
+        
     }
     footer h2{
         text-align: left;
         font-size: 18px;
         padding: 0px 20px 30px 20px;
+    }
+    footer .container h2{
+        font-size: 4vw;
+    }
+    footer ul{
+    
+        margin:0px auto;
+        text-align: left;
     }
 }
